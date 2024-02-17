@@ -24,6 +24,6 @@ Tic-Tac-Toe AI using Minimax is a recursive algorithm where the computer (our co
 
 ## Acknowledgements
 
- - [Science Buddies](https://www.youtube.com/watch?v=5y2a0Zhgq0U) - This youtube helps me for understanding the basic concept of game and Algorithm
+ - [Science Buddies](https://www.youtube.com/watch?v=5y2a0Zhgq0U) - This youtube helps me for understanding the basic concept of game tree and Algorithm
  
 
