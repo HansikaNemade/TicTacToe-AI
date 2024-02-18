@@ -21,6 +21,9 @@ Tic-Tac-Toe AI using Minimax is a recursive algorithm where the computer (our co
 - Game Tree Traversal : Traverse the game tree using the Minimax algorithm to determine the best move for the AI player.
 - Game Loop : Implement the game loop that allows the player to make moves and the AI to respond with its moves until the game is over.
 
+## Vedio
+
+https://github.com/HansikaNemade/TicTacToe-AI/assets/103547922/745be1ff-ff13-4458-8565-672404a5a6ff
 
 ## Acknowledgements
 
